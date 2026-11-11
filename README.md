@@ -17,14 +17,6 @@ MediaDown is a modern desktop application designed to download videos from suppo
 - Customizable application settings
 - Modern Windows interface
 
-### Supported Platforms
-- YouTube
-- TikTok
-- Instagram
-- X (Twitter)
-- Facebook
-- Other yt-dlp supported platforms
-
 ### Developer
 **Baran Arda Törk**
 
